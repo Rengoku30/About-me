@@ -3,6 +3,8 @@
 🔹 Tech / Student / Developer<br><br>Building ideas into real-world solutions<br><br>Tech learner | Project-driven developer<br><br>Turning concepts into code<br><br>Passionate about building & problem-solving<br><br>Learning • Building • Improving<br>![RGB Line Medium](https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/RGB%20Line%20Medium.gif)<br>🔹 Web / Software Focused<br><br>Full-Stack Developer in Progress<br><br>Web Developer | UI → Code<br><br>Creating modern, user-focused web apps<br><br>Designing interfaces, developing solutions<br>![RGB Line Medium](https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/RGB%20Line%20Medium.gif)<br>🔹 AI / Emerging Tech<br><br>Exploring AI, Web & Modern Tech<br><br>Future-ready with code and creativity<br><br>Tech enthusiast exploring intelligent systems<br>![RGB Line Medium](https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/RGB%20Line%20Medium.gif)<br>🔹 Minimal & Professional<br><br>Aspiring Software Engineer<br><br>Computer Science Student<br><br>Technology | Innovation | Growth
 <br>![Rabbit Happy](https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Rabit%20Happy.gif)<br>
 
+## Dev ions :
+🔥 🚀 👨‍💻🎉🎯 💛 😌‍🏽👅
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:backless-elf-maybe@duck.com) 
