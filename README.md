@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm rengoku</h1>
-<h3 align="center">🔹 Tech / Student / Developer Building ideas into real-world solutions Tech learner | Project-driven developer Turning concepts into code Passionate about building & problem-solving Learning • Building • Improving 🔹 Web / Software Focused Full-Stack Developer in Progress Web Developer | UI → Code Creating modern, user-focused web apps Designing interfaces, developing solutions 🔹 AI / Emerging Tech Exploring AI, Web & Modern Tech Future-ready with code and creativity Tech enthusiast exploring intelligent systems 🔹 Minimal & Professional Aspiring Software Engineer Computer Science Student Technology | Innovation | Growth</h3>
+<h3 align="center">
+  🔹 Tech / Student / Developer Building ideas into real-world solutions Tech learner | Project-driven developer Turning concepts into code Passionate about building & problem-solving Learning • Building • Improving 
+  🔹 Web / Software Focused Full-Stack Developer in Progress Web Developer | UI → Code Creating modern, user-focused web apps Designing interfaces, developing solutions 
+  🔹 AI / Emerging Tech Exploring AI, Web & Modern Tech Future-ready with code and creativity Tech enthusiast exploring intelligent systems 
+  🔹 Minimal & Professional Aspiring Software Engineer Computer Science Student Technology | Innovation | Growth</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rengoku30" alt="rengoku30" /></a> </p>
 
 - 🔭 I’m currently working on [terminal-based-tech-world](https://github.com/Rengoku30/terminal-based-tech-world)
 
