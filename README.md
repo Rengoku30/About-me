@@ -1,5 +1,7 @@
 # 💫 About Me:
+![Kyubey](https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Kyubey.gif)
 🔹 Tech / Student / Developer<br><br>Building ideas into real-world solutions<br><br>Tech learner | Project-driven developer<br><br>Turning concepts into code<br><br>Passionate about building & problem-solving<br><br>Learning • Building • Improving<br><br>🔹 Web / Software Focused<br><br>Full-Stack Developer in Progress<br><br>Web Developer | UI → Code<br><br>Creating modern, user-focused web apps<br><br>Designing interfaces, developing solutions<br><br>🔹 AI / Emerging Tech<br><br>Exploring AI, Web & Modern Tech<br><br>Future-ready with code and creativity<br><br>Tech enthusiast exploring intelligent systems<br><br>🔹 Minimal & Professional<br><br>Aspiring Software Engineer<br><br>Computer Science Student<br><br>Technology | Innovation | Growth
+![Rabbit Happy](https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Rabit%20Happy.gif)
 
 
 ## 🌐 Socials:
