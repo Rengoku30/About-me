@@ -16,4 +16,5 @@
 [![](https://visitcount.itsvg.in/api?id=Rengoku30&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<img src="https://count.getloli.com/get/@Mayur-Pagote?theme=rule34"/>
+view counter
+<img src="https://count.getloli.com/get/@rengoku30?theme=rule34"/>
