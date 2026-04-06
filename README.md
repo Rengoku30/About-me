@@ -17,16 +17,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rengoku30&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rengoku30&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-# view counter
-<img src="https://count.getloli.com/get/@rengoku30?theme=rule34"/>
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Rengoku&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/Rengoku30"
-  width="600"
-  height="300"
-/>
-</a>
